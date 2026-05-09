@@ -1,0 +1,6 @@
+{
+  "name": "PathLedger",
+  "description": "Digital stamp platform for mail carriers on XRPL. Mint unique community stamps for $19.99 with 7% royalties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
